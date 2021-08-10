@@ -1,0 +1,14 @@
+body {
+    width: 300px;
+    border: solid 1px black;
+}
+
+p {
+    border: solid 1px black;
+    margin: 0px;
+    padding: 15px;
+}
+
+p:hover {
+    background: rgb(255, 132, 101);
+}
